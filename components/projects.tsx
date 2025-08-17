@@ -12,7 +12,7 @@ export function Projects() {
         "A collaborative task management application with real-time updates and team collaboration features.",
       image: "/task-management-dashboard.png",
       technologies: ["Next.js", "TypeScript", "Prisma", "Socket.io"],
-      liveUrl: "https://task-management-app-chi-lac.vercel.app/",
+      liveUrl: "https://task-management-app-qf7l.vercel.app/",
       githubUrl: "https://github.com/shubhangampandey/Task-Management-App.git",
       featured: true,
     },
